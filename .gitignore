@@ -1,3 +1,14 @@
-data/mysql/*
-config/ssl/*
-logs/apache2/*
+/node_modules
+
+/vendor
+/.env
+/.phpunit.result.cache
+/Homestead.yaml
+/npm-debug.log
+/yarn-error.log
+.idea/
+/storage
+/storage/debugbar
+/storage/framework
+/storage/logs
+/sessions
