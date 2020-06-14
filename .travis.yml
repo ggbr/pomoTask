@@ -8,6 +8,10 @@ php:
 
 addons:
   mariadb: 10.4
+  apt:
+    packages:
+      - docker-ce
+      - docker-compose
 
 cache:
   directories:
